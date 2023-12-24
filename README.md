@@ -5,7 +5,6 @@ To write a python program for copying the contents from one file to another file
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-```
 ## Step 1:
 Get the file name and location from the user.
 
@@ -23,7 +22,7 @@ When done print"File copied successfully".
 
 ## Step 6:
 End of the program
-```
+
 ## PROGRAM:
 ```
 Developed by: Azeez Ahamad
